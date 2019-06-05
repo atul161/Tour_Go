@@ -18,6 +18,7 @@ syntax of varaible declaration is
 var name datatype
 ie var a int
    var b bool
-   ther e are 25 keyword in go
+   ther e are 25 keyword in gocd ..
+
 
 */
